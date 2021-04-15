@@ -1,48 +1,11 @@
 @charset "utf-8";
 @import "basic.css";
 @import "font.css";
+@import "menu.css";
 
 body {
   background-color: #f1f1f1;
   text-align: center;
   font: 14px/1.5 "Roboto Slab", serif;
   color: #434343;
-}
-
-.sidebar {
-  position: fixed;
-  top: 30px;
-  left: 50px;
-  text-align: left;
-}
-
-.sidebar-headline {
-  color: #d58638;
-  font-size: 200%;
-}
-
-.sidebar-content {
-  margin-top: 9px;
-  font-size: 18px;
-}
-
-.second-content {
-  color: #515151;
-  position: relative;
-  left: 20px;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  font-size: 12px;
-}
-
-.second-menu {
-  margin-top: 5px;
-}
-
-.menu-color {
-  transition: color 0.2s;
-}
-
-.menu-color:hover {
-  color: #d58638;
 }
