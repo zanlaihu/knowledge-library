@@ -9,7 +9,24 @@ body {
   color: #434343;
 }
 
-.headline {
+.sidebar {
+  position: fixed;
+  top: 30px;
+  left: 50px;
+  text-align: left;
+}
+
+.sidebar-headline {
   color: #d58638;
   font-size: 250%;
+}
+
+.sidebar-content {
+  position: relative;
+  top: 20px;
+  font-size: 18px;
+}
+
+.second-menu {
+  font-size: 17px;
 }
