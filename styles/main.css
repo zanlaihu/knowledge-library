@@ -5,7 +5,7 @@
 body {
   background-color: #f1f1f1;
   text-align: center;
-  font: 14px/1.5 "Microsoft YaHei", arial, tahoma, \5b8b\4f53, sans-serif;
+  font: 14px/1.5 "Roboto Slab", serif;
   color: #434343;
 }
 
@@ -18,25 +18,25 @@ body {
 
 .sidebar-headline {
   color: #d58638;
-  font-size: 250%;
+  font-size: 200%;
 }
 
 .sidebar-content {
-  position: relative;
-  top: 20px;
+  margin-top: 9px;
   font-size: 18px;
 }
 
 .second-content {
   color: #515151;
   position: relative;
-  top: 5px;
-  left: 25px;
-  bottom: 5px;
-  font-size: 15px;
+  left: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 12px;
 }
 
 .second-menu {
+  margin-top: 5px;
 }
 
 .menu-color {
