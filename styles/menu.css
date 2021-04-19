@@ -1,7 +1,6 @@
 .sidebar {
-  position: fixed;
-  top: 30px;
-  left: 50px;
+  margin-top: 30px;
+  margin-left: 45px;
   text-align: left;
 }
 
@@ -12,16 +11,15 @@
 
 .sidebar-content {
   margin-top: 9px;
-  font-size: 18px;
+  font-size: 150%;
 }
 
 .second-content {
-  color: #515151;
-  position: relative;
-  left: 20px;
   margin-top: 5px;
   margin-bottom: 5px;
-  font-size: 12px;
+  margin-left: 20px;
+  color: #515151;
+  font-size: 50%;
 }
 
 .second-menu {
