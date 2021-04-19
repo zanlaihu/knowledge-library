@@ -12,11 +12,6 @@
 .sidebar-content {
   margin-top: 9px;
   font-size: 130%;
-  transition: color 0.2s;
-}
-
-.sidebar-content:hover {
-  color: #d58638;
 }
 
 .second-content {
@@ -27,20 +22,27 @@
   color: #515151;
 }
 
+.topic-bar {
+  transition: color 0.2s;
+}
+
+.topic-bar:hover {
+  color: #d58638;
+}
+
 .first-menu {
   margin-top: 5px;
   margin-bottom: 5px;
 }
 
-.first-menu:hover {
-}
-
 .second-menu {
   margin-top: 5px;
+  transition: color 0.2s;
   position: relative;
   left: 0;
 }
 
 .second-menu:hover {
+  color: #d58638;
   left: 3px;
 }
