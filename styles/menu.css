@@ -5,8 +5,8 @@
 }
 
 .sidebar-headline {
-  color: #d58638;
   font-size: 200%;
+  color: #d58638;
 }
 
 .sidebar-content {
@@ -18,16 +18,14 @@
   margin-top: 5px;
   margin-bottom: 5px;
   margin-left: 20px;
-  color: #515151;
   font-size: 50%;
+  color: #515151;
 }
 
 .second-menu {
   margin-top: 5px;
   position: relative;
   left: 0;
-  -webkit-transition: left 0.2s ease-in;
-  transition: left 0.2s ease-in;
 }
 
 .second-menu:hover {
@@ -39,9 +37,5 @@
 }
 
 .menu-color:hover {
-  color: #d58638;
-}
-
-.choosen-menu {
   color: #d58638;
 }
