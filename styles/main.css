@@ -2,6 +2,7 @@
 @import "basic.css";
 @import "font.css";
 @import "menu.css";
+@import "text-content.css";
 
 body {
   background-color: #ffffff;
