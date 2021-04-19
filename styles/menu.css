@@ -38,11 +38,10 @@
 .second-menu {
   margin-top: 5px;
   transition: color 0.2s;
-  position: relative;
-  left: 0;
+  transition: transform 0.2s;
 }
 
 .second-menu:hover {
   color: #d58638;
-  left: 3px;
+  transform: translateX(5px);
 }
