@@ -7,7 +7,6 @@
 
 .sidebar-headline {
   font-size: 200%;
-  color: #d58638;
 }
 
 .sidebar-content {
@@ -28,7 +27,7 @@
 }
 
 .topic-bar:hover {
-  color: #d58638;
+  color: #66b3ff;
 }
 
 .first-menu {
@@ -43,6 +42,6 @@
 }
 
 .second-menu:hover {
-  color: #d58638;
+  color: #66b3ff;
   transform: translateX(5px);
 }
